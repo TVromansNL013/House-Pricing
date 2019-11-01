@@ -8,3 +8,6 @@ The files located in the folder Algorithm are used to create an algorithm in R b
 The second part was creating a web interface. By saving the algorithm outcomes to an RDS-file it was posible to integrate the algorithm in R-shiny. R shiny was used to develop a basic web interface that can be used to calculate house prices in the Netherlands. The files located in the folder Web-App are used to generate the web interface for the algorithm. 
 
 For further dervelopment a autamatic webscraper would be incluse so it is possible to use data that is up to date. Besides that it is important to develop a suitable user interface that is easy to use. 
+
+The documents and source codes can be downloaded via the following link, unfotently the files were to big to upload. 
+https://drive.google.com/drive/folders/1Pcyb_9dtEABMPXPpS_ucJhHG7UoLZLjl?usp=sharing 
